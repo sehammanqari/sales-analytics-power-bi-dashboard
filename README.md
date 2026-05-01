@@ -352,8 +352,8 @@ sales-analytics-power-bi-dashboard/
 └── images/
     ├── Sales_Overview_page.JPG.png
     ├── Customer_Analysis_page.jpg.png
-    ├── Product_Analysis_page.jpg.png
-    └── dashboard_preview.png
+    └── Product_Analysis_page.jpg.png
+
 ```
 
 ---
