@@ -107,8 +107,7 @@ Contains product-level reporting metrics including:
 * Product cost
 * Profitability metrics
 
-### Note:
-The dataset used in this project is a sample dataset designed for learning, analytics practice, and portfolio development.
+## Note: The dataset used in this project is a sample dataset designed for learning, analytics practice, and portfolio development.
 ---
 
 ## Data Model
