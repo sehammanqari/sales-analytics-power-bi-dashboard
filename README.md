@@ -363,4 +363,5 @@ This dashboard serves as both a portfolio project and a real-world business inte
 ## Author
 
 **Seham Manqari**
+
 Data Analytics Portfolio Project
