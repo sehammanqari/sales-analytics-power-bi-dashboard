@@ -122,6 +122,7 @@ This dashboard follows a **Star Schema** structure:
 ## Dashboard Pages
 
 # 1. Overview Page
+<img width="1447" height="811" alt="image" src="https://github.com/user-attachments/assets/df1d09e2-1e08-48bb-89f3-7903370ae223" />
 
 ### Purpose:
 
@@ -152,6 +153,8 @@ Provides an executive summary of overall business performance.
 
 # 2. Customer Analysis Page
 
+<img width="1445" height="817" alt="image" src="https://github.com/user-attachments/assets/9a57b90e-2a5f-4443-a0ee-03bcf9c2fd53" />
+
 ### Purpose:
 
 Analyzes customer demographics, spending behavior, segmentation, and retention.
@@ -180,6 +183,9 @@ Analyzes customer demographics, spending behavior, segmentation, and retention.
 ---
 
 # 3. Product Analysis Page
+
+<img width="1445" height="817" alt="image" src="https://github.com/user-attachments/assets/b791a9f4-fbd6-4cfc-b06d-068ed548d247" />
+
 
 ### Purpose:
 
