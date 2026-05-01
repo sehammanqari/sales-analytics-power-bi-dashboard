@@ -325,18 +325,35 @@ END AS product_segment
 sales-analytics-power-bi-dashboard/
 │
 ├── README.md
-├── dashboard/
-│   └── Sales_Analytics_Dashboard.pbix
+│
 ├── dataset/
-│   ├── gold_fact_sales.csv
-│   ├── gold_report_customers.csv
-│   └── gold_report_products.csv
-├── images/
-│   ├── overview_page.png
-│   ├── customer_analysis_page.png
-│   └── product_analysis_page.png
-└── assets/
-    └── figma_design.png
+│   ├── gold.fact_sales.csv
+│   ├── gold.report_customer.csv
+│   └── gold.report_product.csv
+│
+├── design/
+│   │
+│   ├── button/
+│   │   ├── Customer-default.png
+│   │   ├── Customer-hover.png
+│   │   ├── Customer-pressed.png
+│   │   ├── Overview-default.png
+│   │   ├── Overview-hover.png
+│   │   ├── Overview-pressed.png
+│   │   ├── Product-default.png
+│   │   ├── Product-hover.png
+│   │   └── Product-pressed.png
+│   │
+│   └── layout/
+│       ├── Overview page.png
+│       ├── Customer page.png
+│       └── Product page.png
+│
+└── images/
+    ├── Sales_Overview_page.JPG.png
+    ├── Customer_Analysis_page.jpg.png
+    ├── Product_Analysis_page.jpg.png
+    └── dashboard_preview.png
 ```
 
 ---
